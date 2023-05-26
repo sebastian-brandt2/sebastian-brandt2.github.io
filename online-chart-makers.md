@@ -6,6 +6,21 @@ Online chart makers are powerful tools that help people create various types of 
 
 In this article, we will discuss the benefits of using online chart makers, the types of charts that can be created with these tools, and some popular online chart makers.
 
+> Further Readings:
+> 
+> [https://sites.google.com/view/online-chart-makers](https://sites.google.com/view/online-chart-makers)
+> 
+> [https://sebastian-brandt2.github.io/online-chart-makers](https://sebastian-brandt2.github.io/online-chart-makers)
+> 
+> [https://online-chart-creators.vercel.app/online-chart-makers](https://online-chart-creators.vercel.app/online-chart-makers)
+> 
+> [https://rococo-melba-e96624.netlify.app/posts/online-chart-maker](https://rococo-melba-e96624.netlify.app/posts/online-chart-maker)
+> 
+> [https://chart-maker-gatsby.onrender.com/online-chart-maker/](https://chart-maker-gatsby.onrender.com/online-chart-maker/)
+> 
+> [https://online-chart-maker.s3.us-east-005.backblazeb2.com/online-chart-maker.html](https://online-chart-maker.s3.us-east-005.backblazeb2.com/online-chart-maker.html)
+
+
 ## Benefits of Using Online Chart Makers
 
 1. **Ease of Use**: Online chart makers are designed to be user-friendly and do not require any technical skills or knowledge of coding or programming. Most online chart makers come with simple drag-and-drop functionality or templates that users can use to create charts without any design or technical expertise.
@@ -87,12 +102,3 @@ Online chart makers are an indispensable tool for professionals and businesses t
 > - [How to Make a Bar Graph in Google Sheets](https://docs.kanaries.net/charts/how-to-make-a-bar-graph-in-google-sheets)
 > - [How to Make Charts in Notion](https://docs.kanaries.net/charts/how-to-make-charts-in-notion)
 
-
-Other Useful Links
-
-https://sites.google.com/view/online-chart-makers
-https://sebastian-brandt2.github.io/online-chart-makers
-https://online-chart-creators.vercel.app/online-chart-makers
-https://rococo-melba-e96624.netlify.app/posts/online-chart-maker
-https://chart-maker-gatsby.onrender.com/online-chart-maker/
-https://online-chart-maker.s3.us-east-005.backblazeb2.com/online-chart-maker.html
